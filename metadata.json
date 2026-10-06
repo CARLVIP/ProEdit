@@ -1,0 +1,6 @@
+{
+  "name": "ProEdit",
+  "description": "Professional Dark-Themed Video Editor Studio with multi-track timeline, Premiere/CapCut/InShot features, filters, VFX, keyframes, transitions, and quick export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
